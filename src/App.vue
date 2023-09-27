@@ -105,7 +105,7 @@ input,
 button,
 select {
   margin-bottom: 10px;
-  font-size: 4.5vw;
+  font-size: 4vw;
 }
 
 .doors {
